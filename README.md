@@ -5,4 +5,7 @@ Este projeto tem como objetivo analisar os dados disponibilizados pelo Governo F
 
 Para que o programa funcione, é necessário baixar os dados no site https://dados.gov.br/dados/conjuntos-dados/sistema-arrecadacao, na região "Arrecadação por CFEM - Compensação Financeira pela Exploração de Recursos Minerais".
 A planilha tem em torno de 1 milhão de entradas então não pôde ser upada no github ( pesa cerca de 200 MB ).
+Vale lembrar que a planilha deve se chamar "CFEM_Arrecadacao.csv" e deve estar no mesmo diretório que o notebook jupyter.
 
+
+Este trabalho foi realizado em 2021 mas será atualizado em breve.
