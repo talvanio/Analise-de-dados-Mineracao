@@ -1,5 +1,5 @@
 # Analise-de-dados-Mineracao
-Este projeto tem como objetivo analisar os dados disponibilizados pelo Governo Federal sobre a arrecadação da Cfem ( Compensação Financeira pela Exploração de Recursos Minerais ). O CFEM é um imposto pago pelas empresas ou pessoas físicas a União, aos Estados, Distrito Federal e Município pela utilização econômica dos recursos minerais.
+2021 - Este projeto tem como objetivo analisar os dados disponibilizados pelo Governo Federal sobre a arrecadação da Cfem ( Compensação Financeira pela Exploração de Recursos Minerais ). O CFEM é um imposto pago pelas empresas ou pessoas físicas a União, aos Estados, Distrito Federal e Município pela utilização econômica dos recursos minerais.
 
 É feita a análise em estatística descritiva de uma planilha com 1 milhão de entradas disponibilizada publicamente pelo governo.
 
